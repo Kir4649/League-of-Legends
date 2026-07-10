@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
     public Vector3 topLaneLocation   = new Vector3(-40, 1, -40);
     bool spawn = true;
 
+
     void Start()
     {
         
